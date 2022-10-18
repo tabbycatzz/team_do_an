@@ -1,0 +1,68 @@
+.admin-post {
+    .page-item {
+        width: 100%;
+    }
+    .search-post {
+        .keyword {
+            width: 100%;
+        }
+        .btn-search {
+            padding-left: 4rem;
+            padding-right: 4rem;
+        }
+    }
+    .admin-post-add {
+        .image-upload {
+            input {
+                display: none;
+            }
+            label {
+                background-color: #F0F0F0;
+                width: 85%;
+                height: 100px;
+                display: flex;
+                flex-direction: column;
+                text-align: center;
+                align-items: center;
+                margin: auto;
+                border: 1px dashed #000;
+                text-transform: capitalize;
+            }
+        }
+    }
+    @media (max-width: 580px) {
+        .search-post {
+            .btn-search {
+                padding-left: 2rem;
+                padding-right: 2rem;
+            }
+        }
+    }
+    @media screen and (max-width: 480px) {
+        .search-post {
+            .search-post-form {
+                flex-direction: column;
+                .keyword {
+                    padding-right: 30px;
+                }
+                .btn-search {
+                    margin-top: 10px;
+                }
+            }
+        }
+        li.page-item {
+            display: none;
+        }
+        .page-item:first-child,
+        .page-item:nth-child( 2 ),
+        .page-item:nth-last-child( 2 ),
+        .page-item:last-child,
+        .page-item.active,
+        .page-item.disabled {
+            display: block;
+        }
+    }
+}
+.ck-editor__editable_inline {
+    min-height: 400px;
+}

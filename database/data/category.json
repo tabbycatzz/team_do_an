@@ -1,0 +1,258 @@
+[
+    {
+        "title": "Bóng đá",
+        "description": "Bóng đá",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "1"
+    },
+    {
+        "title": "Luật pháp",
+        "description": "Luật pháp",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "2"
+    },
+    {
+        "title": "Thời sự",
+        "description": "Thời sự",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "3"
+    },
+    {
+        "title": "Thế giới",
+        "description": "Thế giới",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "4"
+    },
+    {
+        "title": "Giải trí",
+        "description": "Giải trí",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "5"
+    },
+    {
+        "title": "Giáo dục",
+        "description": "Giáo dục",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "6"
+    },
+    {
+        "title": "Sức khỏe",
+        "description": "Sức khỏe",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "7"
+    },
+    {
+        "title": "Đời sống",
+        "description": "Đời sống",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "8"
+    },
+    {
+        "title": "Du lịch",
+        "description": "Du lịch",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "9"
+    },
+    {
+        "title": "Hài",
+        "description": "Hài",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "11"
+    },
+    {
+        "title": "Xe",
+        "description": "Xe",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "10"
+    },
+    {
+        "title": "Công nghệ thông tin",
+        "description": "Công nghệ thông tin",
+        "status": "1",
+        "parent_id": null,
+        "order_by": "4"
+    },
+
+    {
+        "title": "Ngoại hạng anh",
+        "description": "Ngoại hạng anh",
+        "status": "1",
+        "parent_id": "1",
+        "order_by": "1"
+    },
+    {
+        "title": "C1",
+        "description": "C1",
+        "status": "1",
+        "parent_id": "1",
+        "order_by": "2"
+    },
+    {
+        "title": "Hồ sơ phá án",
+        "description": "Hồ sơ phá án",
+        "status": "1",
+        "parent_id": "2",
+        "order_by": "1"
+    },
+
+    {
+        "title": "Tư vấn",
+        "description": "Tư vấn",
+        "status": "1",
+        "parent_id": "2",
+        "order_by": "2"
+    },
+
+    {
+        "title": "Chính trị",
+        "description": "Chính trị",
+        "status": "1",
+        "parent_id": "3",
+        "order_by": "1"
+    },
+    {
+        "title": "Dân sinh",
+        "description": "Dân sinh",
+        "status": "1",
+        "parent_id": "3",
+        "order_by": "2"
+    },
+
+    {
+        "title": "Quân sự",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "4",
+        "order_by": "1"
+    },
+    {
+        "title": "Tư liệu",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "4",
+        "order_by": "2"
+    },
+    {
+        "title": "Thời trang",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "5",
+        "order_by": "1"
+    },
+    {
+        "title": "Làm đẹp",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "5",
+        "order_by": "2"
+    },
+    {
+        "title": "Tuyển sinh",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "6",
+        "order_by": "1"
+    },
+    {
+        "title": "Du học",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "6",
+        "order_by": "2"
+    },
+    {
+        "title": "Dinh dưỡng",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "7",
+        "order_by": "1"
+    },
+    {
+        "title": "Các bệnh",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "7",
+        "order_by": "2"
+    },
+    {
+        "title": "Nhà",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "8",
+        "order_by": "1"
+    },
+    {
+        "title": "Cooking",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "8",
+        "order_by": "2"
+    },
+    {
+        "title": "Điểm đến",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "9",
+        "order_by": "1"
+    },
+    {
+        "title": "Ảnh",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "9",
+        "order_by": "2"
+    },
+    {
+        "title": "Truyện cười",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "10",
+        "order_by": "1"
+    },
+    {
+        "title": "Video",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "10",
+        "order_by": "2"
+    },
+    {
+        "title": "Ô tô",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "11",
+        "order_by": "1"
+    },
+    {
+        "title": "Xe máy",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "11",
+        "order_by": "2"
+    },
+    {
+        "title": "Trong nước",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "12",
+        "order_by": "1"
+    },
+    {
+        "title": "Ngoài nước",
+        "description": "Tư liệu",
+        "status": "1",
+        "parent_id": "12",
+        "order_by": "2"
+    }
+]
